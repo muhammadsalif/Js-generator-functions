@@ -40,6 +40,12 @@ For **Use cases** & **Advantages** of generator functions see this article 👇
 
 <https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5>
 
+Kyle cook good blog article 👇
+
+* It can be use to generate unique id's for users.
+
+<https://blog.webdevsimplified.com/2021-01/javascript-generators/>
+
 Mdn documentation 👇
 
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*>
